@@ -172,6 +172,7 @@ a:hover
 	text-align: center;
 	width: 925px;
 	height: 200px;
+
 }
 
 .alt-description{
@@ -185,6 +186,7 @@ a:hover
 	width: 925px;
 	height: 200px;
 	letter-spacing: 1px;
+	line-height: 23px;
 }
 
 .alt-name{
